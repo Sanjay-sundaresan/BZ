@@ -1,8 +1,9 @@
 # BZ
 
 # Requirements: 
-1. A google account 
-2. Appropriate permissions to read the dataset. 
+1. Dataset link: https://drive.google.com/file/d/1AVg8ENuzzvmBWhzFRUgT1os7E8IO78Tq/view?usp=sharing 
+2. A google account 
+3. Appropriate permissions to read the dataset. 
 
 
 # Steps to run:
